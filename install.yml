@@ -1,0 +1,2 @@
+- name: Install Kubernetes via Kubespray
+  include: 3rd/kubespray/cluster.yml
