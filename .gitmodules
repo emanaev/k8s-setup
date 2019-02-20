@@ -1,3 +1,6 @@
 [submodule "3rd/kubespray"]
 	path = 3rd/kubespray
 	url = https://github.com/emanaev/kubespray.git
+[submodule "3rd/hetznercloud-py"]
+	path = 3rd/hetznercloud-py
+	url = https://github.com/emanaev/hetznercloud-py.git
